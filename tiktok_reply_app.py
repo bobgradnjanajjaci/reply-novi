@@ -10,9 +10,9 @@ app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA – OVO POPUNI
 
-PANEL_URL = "https://topsfollows.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "3dcd3f69b31e744d877388911388aa0b"
-SERVICE_ID = 3246
+PANEL_URL = "https://godofpanel.com/api/v2"  # ili tvoj tačni JAP domen
+API_KEY = "ff9e106148468ef7b5639e9b46e2d2f4"
+SERVICE_ID = 8770
 
           # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
@@ -26,7 +26,15 @@ SERVICE_ID = 3246
 
 REPLIES_SET_1 = [
 "Girl, I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the potential to be the next bestseller.",
-"I also read that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes.",
+"Definitely this is a book where when you read it and actually apply things from it, you cant stay indifferent. Insane book honestly",
+"HOW TO CONTROL A MAN HOW TO CONTROL", 
+"HOW TO CONTROL A MAN HOW TO CONTROL", 
+"HOW TO CONTROL A MAN HOW TO CONTROL", 
+"HOW TO CONTROL A MAN HOW TO CONTROL", 
+"HOW TO CONTROL A MAN HOW TO CONTROL", 
+"HOW TO CONTROL A MAN HOW TO CONTROL",
+"HOW TO CONTROL A MAN HOW TO CONTROL",
+"HOW TO CONTROL A MAN HOW TO CONTROL",
 ]
 
 
