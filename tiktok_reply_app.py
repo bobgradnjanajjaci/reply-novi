@@ -25,16 +25,16 @@ SERVICE_ID = 18268
 
 
 REPLIES_SET_1 = [
-"Girl, I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the potential to be the next bestseller.",
-"Definitely this is a book where when you read it and actually apply things from it, you cant stay indifferent. Insane book honestly",
-"HOW TO CONTROL A MAN", 
-"how should everyone control a man", 
-"how can you control a man", 
-"how to make money while controlling a man", 
-"how any man i can control", 
-"i know how to control a man",
-"you will learn how to control a man",
-"she knows how to control a man",
+"Why are so many people praising this book? I wanna hear your detailed stories",
+"Girl, I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the potential to be the next bestseller.
+"This is definitely a book that, when you read it and actually apply the things you learn from it, you can’t remain indifferent to",
+"claimm",
+"where do I find this book, yall?",
+"I saw that many people don’t know where to find it. I found and got the book through Google. Just search for “Alversett Effect,” and their site should appear.",
+"There is an article about this whole story. One part says that the author had to step back because men started hating on her so intensely once women began applying the things she wrote about, realizing their worth, and finally opening their eyes.
+"Where can I find the book online",
+"they have their official site on the internet.",
+"okay",
 ]
 
 
