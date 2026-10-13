@@ -10,9 +10,9 @@ app = Flask(__name__)
 
 # 🔧 KONFIGURACIJA – OVO POPUNI
 
-PANEL_URL = "https://godofpanel.com/api/v2"  # ili tvoj tačni JAP domen
-API_KEY = "ff9e106148468ef7b5639e9b46e2d2f4"
-SERVICE_ID = 8770
+PANEL_URL = "https://bulkmedya.org/api/v2"  # ili tvoj tačni JAP domen
+API_KEY = "ce3201b3674ef31b889464a3a6f5c467"
+SERVICE_ID = 18268
 
           # npr. 6b4b33ef856ee4ef973fcaa450e62786
 
@@ -27,14 +27,14 @@ SERVICE_ID = 8770
 REPLIES_SET_1 = [
 "Girl, I can’t believe someone else has read her book. What fascinates me even more is how few people are talking about it, because I can honestly say this book has the potential to be the next bestseller.",
 "Definitely this is a book where when you read it and actually apply things from it, you cant stay indifferent. Insane book honestly",
-"HOW TO CONTROL A MAN HOW TO CONTROL", 
-"HOW TO CONTROL A MAN HOW TO CONTROL", 
-"HOW TO CONTROL A MAN HOW TO CONTROL", 
-"HOW TO CONTROL A MAN HOW TO CONTROL", 
-"HOW TO CONTROL A MAN HOW TO CONTROL", 
-"HOW TO CONTROL A MAN HOW TO CONTROL",
-"HOW TO CONTROL A MAN HOW TO CONTROL",
-"HOW TO CONTROL A MAN HOW TO CONTROL",
+"HOW TO CONTROL A MAN", 
+"how should everyone control a man", 
+"how can you control a man", 
+"how to make money while controlling a man", 
+"how any man i can control", 
+"i know how to control a man",
+"you will learn how to control a man",
+"she knows how to control a man",
 ]
 
 
